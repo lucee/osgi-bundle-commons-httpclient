@@ -2,11 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
 	<groupId>org.lucee</groupId>
 	<artifactId>commons-httpclient</artifactId>
-	<version>1.10.10-SNAPSHOT</version><!-- version need to follow this pattern <number>.<number>.<number>.<string> -->
+	<version>3.1</version><!-- version need to follow this pattern <number>.<number>.<number>.<string> -->
   <name>Apache Commons HTTPClient</name>
   <packaging>bundle</packaging>
 
-  <description>OSGi version of ${project.name}</description>
+  <description>OSGi Version of Apache Commons HTTPClient</description>
   <url>http://maven.lucee.org/commons-httpclient/</url>
 
   <!-- same license as the original jar -->
